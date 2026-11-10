@@ -1,0 +1,89 @@
+html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Official Portal</title>
+    <link rel="stylesheet" href="style.css">
+    <!-- Font Awesome for social media icons -->
+    <link rel="stylesheet" href="https://cloudflare.com">
+</head>
+<body>
+
+    <div class="container">
+        <!-- Logo Header Section -->
+        <header class="profile-header">
+            <div class="logo-container">
+                <!-- Replace with your own logo image link -->
+                <img src="https://placeholder.com" alt="Logo" class="logo">
+            </div>
+            <h1>YOUR BRAND NAME</h1>
+            <p class="subtitle">OFFICIAL PORTAL</p>
+        </header>
+
+        <!-- Status Info Badge -->
+        <div class="status-badge">
+            <span class="status-dot"></span>
+            <div class="status-text">
+                <span class="badge-title">OFFICIAL PORTAL</span>
+                <span class="badge-sub">+10K active members</span>
+            </div>
+        </div>
+
+        <!-- Section Title -->
+        <h2 class="section-heading">OFFICIAL CHANNELS</h2>
+
+        <!-- Action Links -->
+        <div class="links-container">
+            
+            <!-- Link Card 1 -->
+            <a href="#" class="link-card" target="_blank">
+                <div class="card-icon">
+                    <i class="fab fa-whatsapp"></i>
+                </div>
+                <div class="card-info">
+                    <span class="tag">OFFICIAL WHATSAPP</span>
+                    <span class="title">CONTACT OWNER</span>
+                    <span class="desc">DM to Buy Cheap Panels</span>
+                </div>
+                <div class="card-arrow">
+                    <i class="fas fa-arrow-right"></i>
+                </div>
+            </a>
+
+            <!-- Link Card 2 -->
+            <a href="#" class="link-card" target="_blank">
+                <div class="card-icon">
+                    <i class="fab fa-whatsapp"></i>
+                </div>
+                <div class="card-info">
+                    <span class="tag">WHATSAPP CHANNEL</span>
+                    <span class="title">JOIN CHANNEL</span>
+                    <span class="desc">Join For Free Root & Non-Root Panels</span>
+                </div>
+                <div class="card-arrow">
+                    <i class="fas fa-arrow-right"></i>
+                </div>
+            </a>
+
+            <!-- Link Card 3 -->
+            <a href="#" class="link-card" target="_blank">
+                <div class="card-icon">
+                    <i class="fab fa-tiktok"></i>
+                </div>
+                <div class="card-info">
+                    <span class="tag">OFFICIAL TIKTOK</span>
+                    <span class="title">FOLLOW US</span>
+                    <span class="desc">Watch our latest updates</span>
+                </div>
+                <div class="card-arrow">
+                    <i class="fas fa-arrow-right"></i>
+                </div>
+            </a>
+
+        </div>
+    </div>
+
+</body>
+</html>
